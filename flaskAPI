@@ -7,9 +7,6 @@ summarizer = pipeline("summarization", model="Falconsai/text_summarization")
 
 #Flask,request,jsoniFy,transformers,torch를 install 하고 하위 예제에 맞게 사용하면 된다.
 
-#summarizer = pipeline("summarization", model="Falconsai/text_summarization")
-#summarizer = pipeline("summarization", model="Falconsai/text_summarization")
-
 # ARTICLE = """
 # Hugging Face: Revolutionizing Natural Language Processing
 # Introduction
